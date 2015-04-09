@@ -1,6 +1,6 @@
 <%-- 
-    Document   : index
-    Created on : 09/04/2015, 09:16:07 AM
+    Document   : main
+    Created on : 09/04/2015, 09:23:26 AM
     Author     : Intel
 --%>
 
@@ -13,6 +13,5 @@
     </head>
     <body>
         <h1>Hello World!</h1>
-        <h1>Hola Mundo!</h1>
     </body>
 </html>
